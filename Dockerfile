@@ -15,7 +15,7 @@ RUN apk add --no-cache \
     sane-saned \
     sane-utils \
     sane-backend-net \
-    sane-backend-hpljm1005 
+    sane-backend-xerox_mfp 
 
 ### sane-backend-hpaio
 
