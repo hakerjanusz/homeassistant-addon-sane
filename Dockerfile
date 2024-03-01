@@ -12,7 +12,6 @@ ENV TERM="xterm-256color"
 RUN apk add --no-cache \
     nano \
     sane \
-    avahi-daemon \
     sane-saned \
     sane-utils \
     sane-backend-net \
