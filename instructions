@@ -4,5 +4,5 @@ apk add hplip (optional)
 apk add sane-utils
 apk add sane-saned
 apk add sane-backend-hp (optional)
-apk add sane-backend-hpljm1005
+apk add sane-backend-xerox_mfp
 apk add sane-backend-net
